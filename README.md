@@ -52,8 +52,7 @@ Take a look at the files and folders to understand how the different parts of th
 
 Depending on the technologies used, you might need to set up a local server. For example, if you're using Node.js, you can install dependencies and start the server:
 
-## sql
-
+ 
 ## Copy code
 
 npm install
@@ -61,16 +60,32 @@ npm install
 npm start
 
 ## View the Website:
+## Login Page
+Here you can Login through the email id 
 ![ho](https://github.com/Hari1107/E-com/assets/112464204/b9d92b99-02fa-4c56-a476-85b418360fa1)
+
+## New User Register here
+![k](https://github.com/Hari1107/E-com/assets/112464204/1aa1343f-b901-4b27-8e11-6d42ab5d664e)
+
+## We can Able to see available product 
+![l](https://github.com/Hari1107/E-com/assets/112464204/230489e3-8130-4a02-a69a-b73a74b23a37)
+## After clicking we can able to see the one particular Item
 ![j](https://github.com/Hari1107/E-com/assets/112464204/13d7e45c-4274-47f0-9a4e-1a79a98ca35e)
 
+## Here in Db.json user infor will save
+![dp](https://github.com/Hari1107/E-com/assets/112464204/d7c8af49-24fe-4417-8692-c9b4cfec3888)
 
-Once the server is running, open your web browser and go to http://localhost:3000 to view the website.
+### Once the server is running, open your web browser and go to http://localhost:3000 to view the website.
 
-## Contributing
+#### NOTE
+I have completed 80% of the Assignment Task. In github almost all the necessary file have been pushed. 
+If anything missed please feel free to conduct me.
 
-Contributions are welcome! Whether you're new to coding or an experienced developer, you can contribute to this project by reporting bugs, suggesting new features, or submitting pull requests. Check out the CONTRIBUTING.md file for more details.
+# contact
+hariharan.k1107@gmail.com
+8870515769
 
-## License
+### A quick Learner looking for chance to apply my skills and knowledge to prove myself. Please respond your thoughts with me. It will motivate a lot.
 
-This project is licensed under the MIT License, which means you can use, modify, and distribute the code freely as long as you include the license file.
+#### THANKS A LOT tanx.fi Team
+ 
